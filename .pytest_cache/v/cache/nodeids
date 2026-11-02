@@ -1,0 +1,3 @@
+[
+  "api/tests/test_health.py::test_health_returns_ok"
+]
